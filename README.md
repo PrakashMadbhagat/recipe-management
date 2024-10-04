@@ -1,3 +1,6 @@
+run using nodemon index.js
+
+##
 ### Authentication Endpoints
 
 | Method | Route        | Description                  |
