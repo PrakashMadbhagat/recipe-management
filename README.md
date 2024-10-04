@@ -1,4 +1,4 @@
-run using nodemon index.js
+execute using nodemon index.js
 
 ##
 ### Authentication Endpoints
